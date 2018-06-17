@@ -1,0 +1,36 @@
+[{ 
+    "map" : "tutorial",
+    "name" : "튜토리얼",
+    "thumbnail" : "thumbnail/tutorial.png",
+    "color" : [17,60,170],
+    "level" : "난이도: ☆",
+    "text" : "\"-HELL ROAD- 세계최악의 우주대항로. 아공간에서 무한히 흘러들어오는 미확인폭발물질 'TANMAK'. 스치는 것만으로도 대폭발! 이곳은 그 위대한 항로의 시발점, 행성 튜토리얼!\""
+},{
+    "map" : "uroad",
+    "name" : "비포장항로",
+    "thumbnail" : "thumbnail/uroad.png",
+    "color" : [201,124,124],
+    "level" : "난이도: ★★",
+    "text" : "악마의"
+},{
+    "map" : "trash",
+    "name" : "쓰레기행성",
+    "thumbnail" : "thumbnail/trash.png",
+    "color" : [50,50,50],
+    "level" : "난이도: ★★",
+    "text" : "악마의"
+},{
+    "map" : "bomb",
+    "name" : "폭박물주의!",
+    "thumbnail" : "thumbnail/bomb.png",
+    "color" : [250,208,103],
+    "level" : "난이도: ★★",
+    "text" : "맛있다"
+},{
+    "map" : "mairo",
+    "name" : "미로",
+    "thumbnail" : "thumbnail/mairo.png",
+    "color" : [50,210,128],
+    "level" : "난이도: ★★",
+    "text" : "악마의"
+}]

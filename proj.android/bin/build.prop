@@ -1,0 +1,10 @@
+#Last build type
+#Wed, 23 May 2018 17:41:27 +0900
+
+build.last.target=debug
+
+build.last.is.instrumented=false
+
+build.last.is.packaging.debug=true
+
+build.last.is.signing.debug=true

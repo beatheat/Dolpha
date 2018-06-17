@@ -1,0 +1,20 @@
+{ 
+    "sprite" : "bg_star_ani.png",
+    "width" : 240,
+    "height" : 480,
+    "animation" : [{
+        "name" : "star-small",
+        "x" : 0,
+        "y" : 0,
+        "length" : 8,
+        "speed" : [ 4, 4, 4, 4, 4, 4, 4, 4 ],
+        "repeat" : true
+    }, {
+        "name" : "star-big",
+        "x" : 0,
+        "y" : 480,
+        "length" : 8,
+        "speed" : [ 4, 4, 4, 4, 4, 4, 4, 4 ],
+        "repeat" : true
+    }]
+}
